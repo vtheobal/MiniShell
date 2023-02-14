@@ -1,5 +1,3 @@
-# Minishell
-*As beautiful as a shell*
 <h1 align="center">
 	:desktop_computer: Minishell
 </h1>
@@ -7,7 +5,7 @@
 
 ### Кейсы
 
-Вы можете найти различные случаи [здесь](https://github.com/).
+Вы можете найти различные кейсы [тут](https://github.com/vtheobal/MiniShell/tree/main/examples).
 
 *******
 
@@ -44,5 +42,5 @@ Minishell запускает исполняемые файлы из абсолю
 ### Рабочий поцесс
 
 <p align="center">
-  <img src="https://github.com/" width="100%" />
+  <img src="https://github.com/vtheobal/MiniShell/blob/main/examples/workflow.png" width="100%" />
 </p>
